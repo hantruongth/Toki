@@ -1,0 +1,1 @@
+${AnsiColor.BRIGHT_BLUE}:: TokiGames 🤓  :: Running Spring Boot ${spring-boot.version} ::

@@ -1,0 +1,13 @@
+{
+    "home": {
+        "title": "Chào mừng bạn đến với Tìm chuyến bay với TokiGames!",
+        "subtitle": "Đây là trang chủ của bạn",
+        "logged": {
+            "message": "Bạn đang đăng nhập bằng tài khoản \"{{username}}\"."
+        },
+        "question": "Nếu bạn có bất kỳ câu hỏi nào về TokiGames vui lòng truy cập:",
+        "link": {
+            "homepage": "Trang chủ TokiGames"
+        }
+    }
+}

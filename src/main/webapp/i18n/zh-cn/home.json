@@ -1,0 +1,14 @@
+{
+    "home": {
+        "title": "欢迎, Flight Searching with TokiGames!",
+        "subtitle": "这里是首页",
+        "logged": {
+            "message": "您目前是以 \"{{username}}\" 账号登录."
+        },
+        "question": "如果您有任何有关 TokiGames 的问题, 可以查阅下列资源:",
+        "link": {
+            "homepage": "TokiGames 首頁"
+        }
+
+    }
+}

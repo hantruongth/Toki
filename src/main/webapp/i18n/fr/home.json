@@ -1,0 +1,13 @@
+{
+    "home": {
+        "title": "Bienvenue, Flight Searching with TokiGames !",
+        "subtitle": "Ceci est votre page d'accueil",
+        "logged": {
+            "message": "Vous êtes connecté en tant que \"{{username}}\"."
+        },
+        "question": "Si vous avez des questions à propos de TokiGames :",
+        "link": {
+            "homepage": "Page d'accueil de TokiGames"
+        }
+    }
+}

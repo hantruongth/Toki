@@ -1,0 +1,35 @@
+{
+    "flight": {
+        "title": "Flights",
+        "searchBtn": "Search For New Flights",
+        "filterBtn": "Apply Filter",
+        "filter": {
+            "title": "Filter by date",
+            "bydestination": "Filter by destination",
+            "departurefrom": "Departure From",
+            "departureto": "Departure To",
+            "arrivalfrom": "Arrival From",
+            "arrivalto": "Arrival To",
+            "button": {
+                "weeks": "Weeks",
+                "today": "today",
+                "clear": "clear",
+                "close": "close",
+                "business": "Business Flight",
+                "cheap": "Cheap Flight"
+            }
+        },
+        "table": {
+            "header": {
+                "no": "No#",
+                "departure": "Departure",
+                "arrival": "Arrival",
+                "departureTime": "Departure Time",
+                "arrivalTime": "Arrival Time"
+            },
+            "data": {
+                "remoteAddress": "Remote Address:"
+            }
+        }
+    }
+}
